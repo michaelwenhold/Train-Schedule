@@ -1,7 +1,26 @@
+body {
+    background-image: url("https://i.redditmedia.com/KBsOsVRAuVWIe_qqA4kMvOr0Nq02KRXFblND4Y2TRvc.jpg?s=fd42074293de275a5c5f35337a9b3301");
+}
+
 .jumbotron {
-    background-image: url("https://cdn4.vectorstock.com/i/1000x1000/00/93/sport-balls-background-seamless-vector-1630093.jpg");
-    font-family: Impact, sans-serif;
     text-align: center;
-    font-weight: bold;
     color: black;
-    }
+    font-weight: bold;
+    background-color: rgba(255, 255, 255, 0);
+    font-family: cursive;
+}
+
+.table {
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.form-group {
+    color: white;
+    font-size: 18px;
+}
+
+#display {
+    background-color: rgb(245, 206, 170, .4);
+}
